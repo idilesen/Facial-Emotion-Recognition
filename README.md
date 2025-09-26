@@ -54,5 +54,6 @@ Bu repo, bootcamp sonrasında da geliştirilmeye devam edilebilecek bir temel su
 
 🔗 Linkler
 
-Çalışmaya ait Kaggle linkleri:
+Çalışmaya ait Kaggle ve Colab linkleri:
 https://www.kaggle.com/code/enesztrk/facial-emotion-recognition-vgg19-fer2013
+https://colab.research.google.com/drive/1lfiC2482c3cz1KpObLUaG5zttB70bBuQ?usp=sharing
